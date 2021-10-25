@@ -1,5 +1,7 @@
 <h1 align="center">Hi and welcome on my github page </h1>
 
+![Alt Text](http://i.imgur.com/OUkLi.gif)
+
 ## Languages and Tools:
 <p>
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
