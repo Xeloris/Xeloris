@@ -1,4 +1,4 @@
-<h1 align="center">Hi and welcome on my github page </h1>
+<h1 align="center">Hi and welcome to my github page </h1>
 
 <p align="center">
   <img src="https://www.olybop.fr/wp-content/uploads/2016/04/inspiration-gif-design-5.gif" alt="animated" />
