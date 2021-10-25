@@ -15,4 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeloris&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me:
-[![Mail](https://img.shields.io/badge/Mail-mehdi.blal94@gmail.com-yellowblue?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:mehdi.blal94@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-mehdi.blal94@gmail.com-darkblue?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:mehdi.blal94@gmail.com)
