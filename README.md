@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://www.olybop.fr/wp-content/uploads/2016/04/inspiration-gif-design-5.gif" alt="animated" />
 </p>
-![GIF](https://www.olybop.fr/wp-content/uploads/2016/04/inspiration-gif-design-5.gif)
 
 ## Languages and Tools:
 <p>
