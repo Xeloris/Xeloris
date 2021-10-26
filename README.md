@@ -1,13 +1,5 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
 
-<div>
-<img src="https://archzine.fr/wp-content/uploads/2018/11/belle-id%C3%A9e-d-image-fond-d-%C3%A9cran-paysage-fond-d-%C3%A9cran-styl%C3%A9-pour-fille-wallpaper-pour-ordinadeur-color%C3%A9-paysage-foret-et-riviere.jpgf" align="right">
-<li> <b>Name:</b> Mehdi Blal </li>
-<li> <b>Gender:</b> Male </li>
-<li> <b>Age:</b> 19 </li>
-<li> <b>Like:</b> Videogames </li>
-</div>
-
 <p align="center">
   <img src="https://archzine.fr/wp-content/uploads/2018/11/belle-id%C3%A9e-d-image-fond-d-%C3%A9cran-paysage-fond-d-%C3%A9cran-styl%C3%A9-pour-fille-wallpaper-pour-ordinadeur-color%C3%A9-paysage-foret-et-riviere.jpg" alt="animated" />
 </p>
