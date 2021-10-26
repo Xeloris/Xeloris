@@ -20,5 +20,5 @@
 
 ### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-mehdi.blal94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehdi.blal94@gmail.com)](mailto:mehdi.blal94@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@_mehdi_blal-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/_mehdi_blal)](https://instagram.com/_mehdi_blal) 
-[![Linkedin Badge](https://img.shields.io/badge/-mehdi_blal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-blal-404a871a1/)](https://www.linkedin.com/in/mehdi-blal-404a871a1/)
+[![Instagram Badge](https://img.shields.io/badge/-@Instagram-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/_mehdi_blal)](https://instagram.com/_mehdi_blal) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-blal-404a871a1/)](https://www.linkedin.com/in/mehdi-blal-404a871a1/)
