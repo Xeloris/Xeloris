@@ -19,4 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeloris&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me:
-[![Mail](https://img.shields.io/badge/Mail-mehdi.blal94@gmail.com-darkblue?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:mehdi.blal94@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-mehdi.blal94@gmail.com-darkblue?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:mehdi.blal94@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@test-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/test)](https://instagram.com/test) [![Linkedin Badge](https://img.shields.io/badge/-test-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/test/)](https://www.linkedin.com/in/test/)
