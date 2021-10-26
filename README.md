@@ -4,9 +4,6 @@
   <img src="https://archzine.fr/wp-content/uploads/2018/11/belle-id%C3%A9e-d-image-fond-d-%C3%A9cran-paysage-fond-d-%C3%A9cran-styl%C3%A9-pour-fille-wallpaper-pour-ordinadeur-color%C3%A9-paysage-foret-et-riviere.jpg" alt="animated" />
 </p>
 
-
-
-
 ## Languages and Tools:
 
 <p align="center">
