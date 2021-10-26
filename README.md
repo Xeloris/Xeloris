@@ -24,9 +24,7 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeloris&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeloris&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-mehdi.blal94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehdi.blal94@gmail.com)](mailto:mehdi.blal94@gmail.com)
