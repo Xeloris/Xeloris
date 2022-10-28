@@ -14,7 +14,9 @@
 </p>
 
 ### Contact me:
+<p>
 [![Gmail Badge](https://img.shields.io/badge/-mehdi.blal94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehdi.blal94@gmail.com)](mailto:mehdi.blal94@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/_mehdi_blal)](https://www.instagram.com/mehdi.bl3) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-blal-404a871a1/)](https://www.linkedin.com/in/mehdi-blal-404a871a1/)
 <a href="https://discordapp.com/users/279249247558303746" target="blank"><img align="center" src="https://logos-marques.com/wp-content/uploads/2022/07/Discord-logo.png" alt="https://discordapp.com/users/279249247558303746" height="20" width="60" /></a>
+</p>
